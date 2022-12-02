@@ -1,4 +1,4 @@
-
+/********** Common styles **********/
 * {
   box-sizing: border-box;
   margin: 0;
@@ -48,8 +48,10 @@ p {
 .content{
   margin-top: 10px;
   margin-botton: 10px;
+  margin-left: 5px;
+  width: 95%;
 }
-/* Simple Responsive Framework. */
+
 .row {
   width: 100%;
 }
